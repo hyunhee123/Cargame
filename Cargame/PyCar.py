@@ -1,5 +1,6 @@
 import pygame
 import random
+import pygame
 from time import sleep
 
 WINDOW_WIDTH = 480
